@@ -1,5 +1,5 @@
 custom = カスタム
-none = None
+none = なし
 default = デフォルト
 details = 詳細
 options = オプション
@@ -54,7 +54,7 @@ updating-permissions = 権限を更新中
 unpacking = 展開
 verifying-files = ファイルの整合性を確認中
 repairing-files = ファイルを修正中
-migrating-folders = 別のファイルに移動する。
+migrating-folders = 別のフォルダに移動する。
 applying-hdiff = hdiffパッチを適用中
 removing-outdated = 期限切れのファイルを消去する
 
@@ -63,7 +63,7 @@ components-index-updated = コンポーネントインデックスが更新さ�
 
 
 launch = 起動
-migrate-folders = 移行ファイル
+migrate-folders = 移行フォルダ
 migrate-folders-tooltip = ゲームフォルダ構成を更新
 apply-patch = パッチを適用する
 disable-telemetry = テレメトリを無効にする
@@ -75,12 +75,12 @@ predownload-update = {$version} の早期アップデート({$size})
 download-patch = パッチをダウンロードする。
 
 patch-broken = パッチが壊れています。
-patch-unsafe = パッチは安全ではないです。
+patch-unsafe = パッチは安全ではありません。
 
 kill-game-process = ゲームを停止させる
 
 main-window--patch-unavailable-tooltip = パッチサーバーが利用できないため、パッチの状態を確認することができません。リスクを理解した上で実行することができます。
-main-window--patch-outdated-tooltip = パッチは期限切れか準備中のため利用できません。しばらく立ってからパッチステータスを確認してください。
+main-window--patch-outdated-tooltip = パッチは期限切れか準備中のため利用できません。しばらく経ってからパッチステータスを確認してください。
 main-window--version-outdated-tooltip = バージョンが古すぎるため、更新できませんでした。
 
 preferences = 設定
